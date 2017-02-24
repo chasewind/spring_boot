@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * 类BootDemoApplication.java的实现描述：TODO 类实现描述
+ * 类BootDemoApplication.java
  * 
  * @author dongwei.ydw 2017年2月24日 上午10:13:48
  */
